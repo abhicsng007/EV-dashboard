@@ -1,4 +1,4 @@
-# EV Vehicle Data Analysis Dashboard
+# EV Data Analysis Dashboard
 ## Overview
 This project implements an **Electric Vehicle Analysis Dashboard** using React, Chart.js, and PapaParse for visualizing and analyzing electric vehicle (EV) data. The dashboard provides several interactive charts and filters for exploring various aspects of EV data, including the distribution of vehicle counts by county, make, model year, range, price, and more. The user interface also supports dynamic theming with a toggle between dark and light modes.
 
